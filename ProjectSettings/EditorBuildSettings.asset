@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 305ce51e812a4fa42a09d2795130da57
+  - enabled: 1
+    path: Assets/Scenes/TutorialCardWorld.unity
+    guid: 083422838588061428c99c1c1a1a5a32
+  - enabled: 1
+    path: Assets/Scenes/GameBoard.unity
+    guid: 924866e53a083d046afbbfb892a0ff28
+  - enabled: 1
+    path: Assets/Scenes/Level1CardWorld.unity
+    guid: 3417347d60bee5440a16b5c665bb4b31
+  - enabled: 1
+    path: Assets/Scenes/Level2CardWorld.unity
+    guid: 6876925bc1099394ebbbc482562e48ba
+  - enabled: 1
+    path: Assets/Scenes/BossCardWorld.unity
+    guid: 4159631911e2e094eaf84c0477cc4400
+  - enabled: 1
+    path: Assets/Scenes/VillageCardWorld.unity
+    guid: ad008413ff18be940abd6c8b09b39bba
+  - enabled: 1
+    path: Assets/Scenes/WinScreen.unity
+    guid: 74eb7f516a5c16f4d82bc6afdfaeb15c
+  m_configObjects: {}
